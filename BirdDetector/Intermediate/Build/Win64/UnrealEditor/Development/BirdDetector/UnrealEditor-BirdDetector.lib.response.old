@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BirdDetector.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Dale Grinsell\Documents\Unreal Projects\DemoForest\Intermediate\Build\Win64\DemoForestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Dale Grinsell\Documents\Unreal Projects\DemoForest\Plugins\BirdDetector\Intermediate\Build\Win64\UnrealEditor\Development\BirdDetector\BirdDetector.cpp.obj"
+"C:\Users\Dale Grinsell\Documents\Unreal Projects\DemoForest\Plugins\BirdDetector\Intermediate\Build\Win64\UnrealEditor\Development\BirdDetector\Default.rc2.res"
+/OUT:"C:\Users\Dale Grinsell\Documents\Unreal Projects\DemoForest\Plugins\BirdDetector\Intermediate\Build\Win64\UnrealEditor\Development\BirdDetector\UnrealEditor-BirdDetector.lib"

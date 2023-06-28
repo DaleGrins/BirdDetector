@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BirdDetector.cpp.obj": [
+			"BirdDetector.cpp.obj",
+			"BSBirdDetector.cpp.obj"
+		],
+		"Module.BirdDetector.gen.cpp.obj": [
+			"BirdDetector.init.gen.cpp.obj",
+			"BSBirdDetector.gen.cpp.obj"
+		]
+	}
+}
